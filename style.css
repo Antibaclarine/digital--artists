@@ -23,8 +23,11 @@ gap: 20%;
 
 }
 .log{
-    background-color:
+    margin-left: 5px;
     
+}
+#art{
+    font-weight: bold;
 }
 .head{
     padding:12%;
