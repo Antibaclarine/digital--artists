@@ -1,0 +1,97 @@
+.container{
+    background-color: white;
+    border: solid 50px;
+    border-color:hotpink ;
+    margin: 10%;
+    border-bottom: none;
+    
+}
+
+
+.bar{
+float: left;
+
+}
+.bar ul li{
+    padding: 0px  6px 8px 4px;
+    display: inline-block;
+    justify-content: content;
+    margin-bottom: 20%;
+gap: 20%;
+   
+
+
+}
+.log{
+    background-color:
+    
+}
+.head{
+    padding:12%;
+    
+    margin-right: 59%;
+    font-style: italic;
+    font-size: 200%;
+}
+.female{
+    width: 50%;
+   height: 50%; 
+   float: right;
+   position: relative;
+   top: -350px;
+    
+}
+.first{
+    width: 5%;
+    border-radius: 50%;
+}
+.second{
+    width: 5%;
+    border-radius: 50%;
+}
+.third{
+    width: 5%;
+    border-radius: 50%;
+}
+.arrow{
+    position: absolute;
+    display: block;
+}
+.small{
+    width: 9%;
+    border-radius: 5%;
+    margin-top: 4%;
+}
+#arrow{
+content: "\2197";
+}
+.get{
+   border-radius: 30%; 
+   padding: 1%;
+   background-color: hotpink;
+}
+.we{
+    text-align: center;
+    position: relative;
+    bottom: 125px;
+}
+.buttons{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4%;
+    border-radius: 45%;
+    
+    
+    
+}
+.line{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+
+
+
